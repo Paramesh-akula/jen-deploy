@@ -34,7 +34,7 @@
 				<configuration>
 					<cloudHubDeployment>
 						<uri>https://anypoint.mulesoft.com</uri>
-						<muleVersion>4.0.0</muleVersion>
+						<muleVersion>4.7.0</muleVersion>
 						<username>paramesh-rao</username>
 						<password>Paramesh@243</password>
 						<applicationName>first-depl</applicationName>
